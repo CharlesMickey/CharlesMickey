@@ -1,4 +1,4 @@
-### Приывет Всем! 👋
+### Привет Всем, меня зовут Артур! 👋:smile:
 
 <!--
 **CharlesMickey/CharlesMickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
