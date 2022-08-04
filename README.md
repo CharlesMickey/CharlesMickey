@@ -1,8 +1,8 @@
 ### Hello everyone, my name is Arthur! 👋:smile:
 
-I am a novice frontend developer:
-
-- :computer::black_heart: Currently, I have completed training courses in Web Development and React Development.
+I am a frontend developer:
+-
+- :computer::black_heart: Currently, I work as a frontend developer.
 - :books:  I'm not just learning new things - I enjoy it.
 - :rocket: I want to develop in the field of development:
   - :stars: To write a clean code,
